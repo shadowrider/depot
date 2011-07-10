@@ -1,6 +1,6 @@
 # Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
 
-jack_order_one:
+one:
   title: Rails book
   description: MyText
   image_url: MyString
